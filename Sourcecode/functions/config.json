@@ -1,0 +1,19 @@
+{
+	"app_name": "patiosygruas",
+	"app_description": "patiosygruas ",
+	"app_identifier": "com.patiosygruas.app",
+	"ios_app_version": "1.0.0",
+	"android_app_version": "100",
+	"firebaseProjectId": "patiosygruas-688f1",
+	"googleApiKeys": {
+		"ios": "AIzaSyDefUPaofofFJPrr7EAmO-9tbh8jajwfzU",
+		"android": "AIzaSyDefUPaofofFJPrr7EAmO-9tbh8jajwfzU",
+		"web": "AIzaSyDefUPaofofFJPrr7EAmO-9tbh8jajwfzU",
+		"server": "AIzaSyDefUPaofofFJPrr7EAmO-9tbh8jajwfzU"
+	},
+	"expo_owner": "moviltrans3",
+	"expo_slug": "patiosygruas",
+	"expo_project_id": "0ab18f92-a902-4d18-b001-89417cb086cc",
+	"admin_email": "moviltrans3@gmail.com",
+	"purchase_code": "2049acca-7c82-45e6-87d4-9617a6774287"
+}
